@@ -1,6 +1,6 @@
 # bitzfeld
 This is a public webpage as disclaimer and legal info
-#legal disclaimer
+<br/>
 Verantwortlicher für den Mailserver mail.bitzfeld.net:
 Sebastian Assenheimer
 Kontakt für Server-Probleme: support@mail.bitzfeld.net
